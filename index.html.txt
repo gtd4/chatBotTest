@@ -1,0 +1,13 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+
+
+</head>
+
+<body>
+  <!-- your content here... -->
+  <script> (function (d, w, c) { if(!d.getElementById("spd-busns-spt")) { var n = d.getElementsByTagName('script')[0], s = d.createElement('script'); var loaded = false; s.id = "spd-busns-spt"; s.async = "async"; s.setAttribute("data-self-init", "false"); s.setAttribute("data-init-type", "opt"); s.src = 'https://cdn.au-freshbots.ai/assets/share/js/freshbots.min.js'; s.setAttribute("data-client", "926c640e6cd400c76d781ee47481960791c3c2c1"); s.setAttribute("data-bot-hash", "df609b439220e1492212278725107124fbdf814d"); s.setAttribute("data-env", "prod"); s.setAttribute("data-region", "au"); if (c) { s.onreadystatechange = s.onload = function () { if (!loaded) { c(); } loaded = true; }; } n.parentNode.insertBefore(s, n); } }) (document, window, function () { Freshbots.initiateWidget({ autoInitChat: false, getClientParams: function () { return ; } }, function(successResponse) { }, function(errorResponse) { }); }); </script>
+</body>
+</html>
